@@ -1,2 +1,1 @@
-# Individual-Project
-For Data Visualization
+### Data Visualization Project
